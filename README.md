@@ -34,7 +34,8 @@ My focus areas:
 🎤 Conferences, meetups and other events where I've had the chance to share ideas:
 
 <!-- Add your talks here. Suggested format:
-- 📅 **[Talk Title](link)** — Event Name, Year
+- 📅 🇪🇸🇬🇧 **[Talk Title](link)** — Event Name, Year · [🖥️ Slides](link) · [🎬 Video](link)
+
 -->
 
 - 📅 🇪🇸 **Deliver It: una historia de terror... o no** — Commit Conf, 2026
@@ -56,7 +57,7 @@ My focus areas:
 🎙️ Podcasts, interviews and other collaborations:
 
 <!-- Add your collaborations here. Suggested format:
-- 🎧 **[Episode Title](link)** — Podcast Name, Year
+- 🎧 🇪🇸🇬🇧 **[Episode Title](link)** — Podcast Name, Year
 -->
 
 - 🎧 🇪🇸 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
