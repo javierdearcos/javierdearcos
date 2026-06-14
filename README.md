@@ -75,9 +75,10 @@ My focus areas:
 - 🎧 **[Liderazgo, comunicación y gestión](https://open.spotify.com/episode/4BPMuknnkaL4fPGBnDLssU)** — Rodobo Podcast, 2025
 - 🎧 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
 - 🎧 **[Liderazgo técnico y humano](https://open.spotify.com/episode/3bS2FTL8lCPTaHjljTbCdy?si=8c4ebc6fc5d34d9c)** — Hablando con Teach Leaders Podcast, 2024
+- 🎧 **Fireside Chat con Getmimo** - Mimo, 2023
+- 🎧 **[Cómo cuidar del talento técnico CON SENTIDIÑO](https://youtu.be/hrPzZly7RZY?si=ZO46jR23-YOC3d9Q)** - Manfred VideoPodcast, 2023
+- 🎧 **Despertando del País de las Maravillas** - Mucho FI y poco RE newsletter de Álvaro Alegría, 2022
 - 🎧 **[¿Cómo me enfrento a una entrevista técnica siendo junior?](https://www.youtube.com/live/3XXncJBkQdM?si=feKs84J8mwP51DOy)** — Teach[t3ch], 2022
-
-
 
 ---
 
