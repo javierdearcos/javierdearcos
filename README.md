@@ -25,7 +25,7 @@ My focus areas:
 - ✍️ Writing about engineering, leadership and career at **[javierdearcos.com](https://javierdearcos.com)**
 - 🧠 Studying a **Psychology degree** — because the root cause of most technical problems is people problems
 - 🎙️ Participating in events as a speaker and collaborating on podcasts to keep learning and sharing knowledge
-- 📚 Always exploring: Team Topologies · DORA · Accelerate · Continuous Delivery
+- 📚 Always exploring: Kotlin · GIS · Building effective teams · AI
 
 ---
 
@@ -48,8 +48,18 @@ My focus areas:
 - 📅 **[Talk Title](link)** — Event Name, Year
 -->
 
+- 📅 **Deliver It: una historia de terror... o no** — Commit Conf, 2026
+- 📅 **[Navigating Communication](https://youtu.be/3vFSMmWgXZg?si=wu_O28S56uftD7HK)** — Celonis Meetup, 2024
+- 📅 **Introducción al Backend cond NestJS** — Teach[t3ch] Winter Sessions, 2023
+- 📅 **[Sin límites con las pruebas técnicas](https://www.youtube.com/live/6ah63xMZiDI?si=VJzESPcSzS-hTnWF)** — Garaje de Ideas, 2023
+- 📅 **[APIs fantásticas y dónde encontrarlas](https://youtu.be/H4DanvLs3EE?si=3lDfja1qh9dxHTle)** — Teach[t3ch] Winter Sessions, 2022
+- 📅 **Generating code that generates code** - Liferay Devcon, 2022
 - 📅 **[APIs, este es el camino](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)** — Liferay User Group Meetup, 2021
-- 📅 **[APIs, este es el camino](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)** — Liferay User Group Meetup, 2021
+- 📅 **[APIs, this is the way](https://www.youtube.com/live/Rai2cugsCcY?si=0ddp4mnIWlCWTspY&t=4754)** — Liferay /dev/24, 2021
+- 📅 **Sleep Well Driven Development** — Licorca Conf 2021
+- 📅 **Mutation Testing: Who watches the watchmen** — Selected for the cancelled T3chfest 2020
+
+  
 ---
 
 ## Collaborations
@@ -59,6 +69,15 @@ My focus areas:
 <!-- Add your collaborations here. Suggested format:
 - 🎧 **[Episode Title](link)** — Podcast Name, Year
 -->
+
+- 🎧 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
+- 🎧 **[De Software Engineer a Manager](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — LambdaLoopers, 2025
+- 🎧 **[Liderazgo, comunicación y gestión](https://open.spotify.com/episode/4BPMuknnkaL4fPGBnDLssU)** — Rodobo Podcast, 2025
+- 🎧 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
+- 🎧 **[Liderazgo técnico y humano](https://open.spotify.com/episode/3bS2FTL8lCPTaHjljTbCdy?si=8c4ebc6fc5d34d9c)** — Hablando con Teach Leaders Podcast, 2024
+- 🎧 **[¿Cómo me enfrento a una entrevista técnica siendo junior?](https://www.youtube.com/live/3XXncJBkQdM?si=feKs84J8mwP51DOy)** — Teach[t3ch], 2022
+
+
 
 ---
 
