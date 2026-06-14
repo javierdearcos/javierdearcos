@@ -22,21 +22,10 @@ My focus areas:
 ## Currently
 
 - 🏢 Working as **Engineering Manager**
-- ✍️ Writing about engineering, leadership and career at **[javierdearcos.com](https://javierdearcos.com)**
 - 🧠 Studying a **Psychology degree** — because the root cause of most technical problems is people problems
-- 🎙️ Participating in events as a speaker and collaborating on podcasts to keep learning and sharing knowledge
+- 🎙️ Participating in events as a **speaker and collaborator** on podcasts to keep learning and sharing knowledge
+- ✍️ Writing about engineering, leadership and career at **[javierdearcos.com](https://javierdearcos.com)**
 - 📚 Always exploring: Kotlin · GIS · Building effective teams · AI
-
----
-
-## Featured posts
-
-<!-- These update manually — replace with your favourite posts -->
-- 📝 [Tree shaking para la vida real](https://javierdearcos.com/2025/10/tree-shaking/) — On focus, priorities, and cutting the unnecessary
-- 📝 [El Juego del Calamar](https://javierdearcos.com/2025/07/squid-game/) — On burnout and the games we didn't choose to play
-- 📝 [Conmigo o contra mí](https://javierdearcos.com/2025/04/with-me-or-against-me/) — On toxic leadership and the alternative we rarely talk about
-
-✍️ Find more posts at **[javierdearcos.com](https://javierdearcos.com)**
 
 ---
 
@@ -48,16 +37,16 @@ My focus areas:
 - 📅 **[Talk Title](link)** — Event Name, Year
 -->
 
-- 📅 **Deliver It: una historia de terror... o no** — Commit Conf, 2026
-- 📅 **[Navigating Communication](https://youtu.be/3vFSMmWgXZg?si=wu_O28S56uftD7HK)** — Celonis Meetup, 2024
-- 📅 **Introducción al Backend cond NestJS** — Teach[t3ch] Winter Sessions, 2023
-- 📅 **[Sin límites con las pruebas técnicas](https://www.youtube.com/live/6ah63xMZiDI?si=VJzESPcSzS-hTnWF)** — Garaje de Ideas, 2023
-- 📅 **[APIs fantásticas y dónde encontrarlas](https://youtu.be/H4DanvLs3EE?si=3lDfja1qh9dxHTle)** — Teach[t3ch] Winter Sessions, 2022
-- 📅 **Generating code that generates code** - Liferay Devcon, 2022
-- 📅 **[APIs, este es el camino](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)** — Liferay User Group Meetup, 2021
-- 📅 **[APIs, this is the way](https://www.youtube.com/live/Rai2cugsCcY?si=0ddp4mnIWlCWTspY&t=4754)** — Liferay /dev/24, 2021
-- 📅 **Sleep Well Driven Development** — Licorca Conf 2021
-- 📅 **Mutation Testing: Who watches the watchmen** — Selected for the cancelled T3chfest 2020
+- 📅 🇪🇸 **Deliver It: una historia de terror... o no** — Commit Conf, 2026
+- 📅 🇬🇧 **[Navigating Communication](https://youtu.be/3vFSMmWgXZg?si=wu_O28S56uftD7HK)** — Celonis Meetup, 2024
+- 📅 🇪🇸 **Introducción al Backend cond NestJS** — Teach[t3ch] Winter Sessions, 2023
+- 📅 🇪🇸 **[Sin límites con las pruebas técnicas](https://www.youtube.com/live/6ah63xMZiDI?si=VJzESPcSzS-hTnWF)** — Garaje de Ideas, 2023
+- 📅 🇪🇸 **[APIs fantásticas y dónde encontrarlas](https://youtu.be/H4DanvLs3EE?si=3lDfja1qh9dxHTle)** — Teach[t3ch] Winter Sessions, 2022
+- 📅 🇬🇧 **Generating code that generates code** - Liferay Devcon, 2022
+- 📅 🇪🇸 **[APIs, este es el camino](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)** — Liferay User Group Meetup, 2021
+- 📅 🇬🇧 **[APIs, this is the way](https://www.youtube.com/live/Rai2cugsCcY?si=0ddp4mnIWlCWTspY&t=4754)** — Liferay /dev/24, 2021
+- 📅 🇪🇸 **Sleep Well Driven Development** — Licorca Conf 2021
+- 📅 🇪🇸 **Mutation Testing: Who watches the watchmen** — Selected for the cancelled T3chfest 2020
 
   
 ---
@@ -70,15 +59,42 @@ My focus areas:
 - 🎧 **[Episode Title](link)** — Podcast Name, Year
 -->
 
-- 🎧 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
-- 🎧 **[De Software Engineer a Manager](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — LambdaLoopers, 2025
-- 🎧 **[Liderazgo, comunicación y gestión](https://open.spotify.com/episode/4BPMuknnkaL4fPGBnDLssU)** — Rodobo Podcast, 2025
-- 🎧 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
-- 🎧 **[Liderazgo técnico y humano](https://open.spotify.com/episode/3bS2FTL8lCPTaHjljTbCdy?si=8c4ebc6fc5d34d9c)** — Hablando con Teach Leaders Podcast, 2024
-- 🎧 **Fireside Chat con Getmimo** - Mimo, 2023
-- 🎧 **[Cómo cuidar del talento técnico CON SENTIDIÑO](https://youtu.be/hrPzZly7RZY?si=ZO46jR23-YOC3d9Q)** - Manfred VideoPodcast, 2023
-- 🎧 **Despertando del País de las Maravillas** - Mucho FI y poco RE newsletter de Álvaro Alegría, 2022
-- 🎧 **[¿Cómo me enfrento a una entrevista técnica siendo junior?](https://www.youtube.com/live/3XXncJBkQdM?si=feKs84J8mwP51DOy)** — Teach[t3ch], 2022
+- 🎧 🇪🇸 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
+- 🎧 🇪🇸 **[De Software Engineer a Manager](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — LambdaLoopers, 2025
+- 🎧 🇪🇸 **[Liderazgo, comunicación y gestión](https://open.spotify.com/episode/4BPMuknnkaL4fPGBnDLssU)** — Rodobo Podcast, 2025
+- 🎧 🇪🇸 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
+- 🎧 🇪🇸 **[Liderazgo técnico y humano](https://open.spotify.com/episode/3bS2FTL8lCPTaHjljTbCdy?si=8c4ebc6fc5d34d9c)** — Hablando con Teach Leaders Podcast, 2024
+- 🎧 🇬🇧 **Fireside Chat con Getmimo** - Mimo, 2023
+- 🎧 🇪🇸 **[Cómo cuidar del talento técnico CON SENTIDIÑO](https://youtu.be/hrPzZly7RZY?si=ZO46jR23-YOC3d9Q)** - Manfred VideoPodcast, 2023
+- 🎧 🇪🇸 **Despertando del País de las Maravillas** - Mucho FI y poco RE newsletter de Álvaro Alegría, 2022
+- 🎧 🇪🇸 **[¿Cómo me enfrento a una entrevista técnica siendo junior?](https://www.youtube.com/live/3XXncJBkQdM?si=feKs84J8mwP51DOy)** — Teach[t3ch], 2022
+
+---
+
+## Featured posts
+
+<!-- These update manually — replace with your favourite posts -->
+- 📝 🇪🇸 [Tree shaking para la vida real](https://javierdearcos.com/2025/10/tree-shaking/) — On focus, priorities, and cutting the unnecessary
+- 📝 🇪🇸 [El Juego del Calamar](https://javierdearcos.com/2025/07/squid-game/) — On burnout and the games we didn't choose to play
+- 📝 🇪🇸 [Conmigo o contra mí](https://javierdearcos.com/2025/04/with-me-or-against-me/) — On toxic leadership and the alternative we rarely talk about
+
+✍️ Find more posts at **[javierdearcos.com](https://javierdearcos.com)**
+
+---
+
+## Projects
+
+🛠️ Some of the things I've built or contributed to:
+
+<!-- Add your projects here. Suggested format:
+- 🔗 **[Project Name](link)** — Short description of what it does and why it matters
+-->
+
+- 🧑‍💻 **Tech Mentor at [Rviewer](https://rviewer.io)** *(Feb 2021 – Jun 2024)* — Designed and created technical coding challenges at different skill levels for the Rviewer platform, used by companies to assess engineering candidates.
+- 🎓 **Volunteer Teacher & Mentor at [Teach\[T3ch\]](https://teachtech.es)** *(Jun 2021 – Jul 2023)* — Volunteering initiative to teach web development fundamentals to people at risk of social exclusion who wanted to enter the tech industry and find new opportunities.
+- 🌐 **Contributor to [Liferay Portal](https://github.com/liferay/liferay-portal)** *(Jan 2020 - Aug 2022)* — Contributed to the main APIs, API tooling and the Objects framework — which allows creating APIs on the fly — as the Headless API team lead.
+- 🔌 **Main architect and contributor to the [ODA — OpenGate Device Agent](https://github.com/amplia-iiot/oda)** *(Aug 2017 - Jan 2020)* — Led the implementation of the open-source IoT agent designed to make it easy to integrate devices and business data into the OpenGate IoT Platform.
+- 📱 **[ARToolKit4Android](https://github.com/javierdearcos/artoolkit4android)** *(May 2015)* — Augmented Reality library for Android based on the ARToolKit marker detection algorithm. Presented as my Final Degree Project, awarded with the highest distinction.
 
 ---
 
