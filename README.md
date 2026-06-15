@@ -48,6 +48,7 @@ My focus areas:
 - 📅 🇬🇧 **Generating code that generates code** - Liferay Devcon, 2022 · [🖥️ Slides](https://drive.google.com/file/d/12z4gl6iCu4gwBJ_3j6v5tcYN_HKycmaM/view?usp=sharing)
 - 📅 🇪🇸 **APIs, este es el camino** — Liferay User Group Meetup, 2021 · [🖥️ Slides](https://drive.google.com/file/d/1jSPGZWUsOyVb915dMsPF63s82irrbKSX/view?usp=sharing) · [🎬 Video](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)
 - 📅 🇬🇧 **APIs, this is the way** — Liferay /dev/24, 2021 · [🖥️ Slides](https://drive.google.com/file/d/1pOkWjPaNb9zMrOn9cG_w_1APPVEDrh2B/view?usp=sharing) · [🎬 Video](https://www.youtube.com/live/Rai2cugsCcY?si=0ddp4mnIWlCWTspY&t=4754)
+- 📅 🇬🇧 **Building a SPA using Liferay's Headless APIs** — Liferay Devcon, 2021 · [🖥️ Slides](https://github.com/javierdearcos/Liferay-Travels-Backend/blob/master/DEVCON%202021%20-%20Building%20a%20SPA%20using%20Liferay's%20Headless%20APIs.pdf)
 - 📅 🇪🇸 **Sleep Well Driven Development** — Licorca Conf 2021 · [🖥️ Slides](https://drive.google.com/file/d/1K2IYypz3PMPcEVCyxBdjewtUfwmJy41T/view?usp=sharing)
 - 📅 🇪🇸 **Mutation Testing: Who watches the watchmen** — Selected for the cancelled T3chfest 2020 · [🖥️ Slides](https://drive.google.com/file/d/1VENjlH8bQ6dGwwDBDEDCpm-E_nvHmdVO/view?usp=sharing)
 - 📅 🇪🇸 **Eficiencia operativa y reduccion de costes con IOT** — Monolitic IOT Workshop, 2019 · [🖥️ Slides](https://drive.google.com/file/d/1GVwr0AjjNsbew5kPUALypLtdVLV0Jr6W/view?usp=sharing) · [🎬 Video](https://drive.google.com/file/d/1hIHtSKtBm838dfjIMtHiODsYmqeAftLY/view?usp=sharing)
