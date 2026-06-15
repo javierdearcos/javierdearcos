@@ -133,8 +133,8 @@ My focus areas:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierdearcos/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hexo&logoColor=white)](https://javierdearcos.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/javierdearcos.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hexo&logoColor=white)](https://javierdearcos.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fj.dearcos@gmail.com)
 
 </div>
