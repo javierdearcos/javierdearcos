@@ -1,6 +1,8 @@
+## Hi, I'm Javier de Arcos 👋
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Javier+de+Arcos+%F0%9F%91%8B;Engineering+Manager;Servant+Leader+%7C+Team+Builder;Continuous+Delivery+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+Manager;Servant+Leader+%7C+Team+Builder;Continuous+Delivery+Advocate)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,22 +35,22 @@ My focus areas:
 
 🎤 Conferences, meetups and other events where I've had the chance to share ideas:
 
-<!-- Add your talks here. Suggested format:
-- 📅 🇪🇸🇬🇧 **[Talk Title](link)** — Event Name, Year · [🖥️ Slides](link) · [🎬 Video](link)
-
+<!-- Talks format:
+- 📅 🇪🇸🇬🇧 **Talk Title** — Event Name, Year · [🖥️ Slides](link) · [🎬 Video](link)
 -->
 
-- 📅 🇪🇸 **Deliver It: una historia de terror... o no** — Commit Conf, 2026
-- 📅 🇬🇧 **[Navigating Communication](https://youtu.be/3vFSMmWgXZg?si=wu_O28S56uftD7HK)** — Celonis Meetup, 2024
-- 📅 🇪🇸 **Introducción al Backend cond NestJS** — Teach[t3ch] Winter Sessions, 2023
-- 📅 🇪🇸 **[Sin límites con las pruebas técnicas](https://www.youtube.com/live/6ah63xMZiDI?si=VJzESPcSzS-hTnWF)** — Garaje de Ideas, 2023
-- 📅 🇪🇸 **[APIs fantásticas y dónde encontrarlas](https://youtu.be/H4DanvLs3EE?si=3lDfja1qh9dxHTle)** — Teach[t3ch] Winter Sessions, 2022
-- 📅 🇬🇧 **Generating code that generates code** - Liferay Devcon, 2022
-- 📅 🇪🇸 **[APIs, este es el camino](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)** — Liferay User Group Meetup, 2021
-- 📅 🇬🇧 **[APIs, this is the way](https://www.youtube.com/live/Rai2cugsCcY?si=0ddp4mnIWlCWTspY&t=4754)** — Liferay /dev/24, 2021
-- 📅 🇪🇸 **Sleep Well Driven Development** — Licorca Conf 2021
-- 📅 🇪🇸 **Mutation Testing: Who watches the watchmen** — Selected for the cancelled T3chfest 2020
-
+- 📅 🇪🇸 **Deliver It: una historia de terror... o no** — Commit Conf, 2026 · [🖥️ Slides](https://drive.google.com/file/d/1PyQHINngXhYOvR_2l9keIKw7nLJG6Tla/view?usp=sharing)
+- 📅 🇬🇧 **Navigating Communication** — Celonis Meetup, 2024· [🖥️ Slides](https://drive.google.com/file/d/1VUV5k9B7U_6CVhtUziDDG7nankUlBYBs/view?usp=sharing) · [🎬 Video](https://youtu.be/3vFSMmWgXZg?si=wu_O28S56uftD7HK
+)
+- 📅 🇪🇸 **Introducción al Backend cond NestJS** — Teach[t3ch] Winter Sessions, 2023 · [🖥️ Slides](https://drive.google.com/file/d/1A8LCzaMTBVvtGXz0eaj260r_vATYhjX2/view?usp=sharing)
+- 📅 🇪🇸 **Sin límites con las pruebas técnicas** — Garaje de Ideas, 2023 · [🖥️ Slides](https://drive.google.com/file/d/1TbDH60fSLfRquUGNyH9MJtbMV2gGSUFu/view?usp=sharing) · [🎬 Video](https://www.youtube.com/live/6ah63xMZiDI?si=VJzESPcSzS-hTnWF)
+- 📅 🇪🇸 **APIs fantásticas y dónde encontrarlas** — Teach[t3ch] Winter Sessions, 2022 · [🖥️ Slides](https://drive.google.com/file/d/1iNsVKjCn_Lyrlf_qqdD5ybXA_YIHm79s/view?usp=sharing) · [🎬 Video](https://youtu.be/H4DanvLs3EE?si=3lDfja1qh9dxHTle)
+- 📅 🇬🇧 **Generating code that generates code** - Liferay Devcon, 2022 · [🖥️ Slides](https://drive.google.com/file/d/12z4gl6iCu4gwBJ_3j6v5tcYN_HKycmaM/view?usp=sharing)
+- 📅 🇪🇸 **APIs, este es el camino** — Liferay User Group Meetup, 2021 · [🖥️ Slides](https://drive.google.com/file/d/1jSPGZWUsOyVb915dMsPF63s82irrbKSX/view?usp=sharing) · [🎬 Video](https://www.youtube.com/live/7C8VfXyCeRQ?si=OrG2oALuEtiyiRjb)
+- 📅 🇬🇧 **APIs, this is the way** — Liferay /dev/24, 2021 · [🖥️ Slides](https://drive.google.com/file/d/1pOkWjPaNb9zMrOn9cG_w_1APPVEDrh2B/view?usp=sharing) · [🎬 Video](https://www.youtube.com/live/Rai2cugsCcY?si=0ddp4mnIWlCWTspY&t=4754)
+- 📅 🇪🇸 **Sleep Well Driven Development** — Licorca Conf 2021 · [🖥️ Slides](https://drive.google.com/file/d/1K2IYypz3PMPcEVCyxBdjewtUfwmJy41T/view?usp=sharing)
+- 📅 🇪🇸 **Mutation Testing: Who watches the watchmen** — Selected for the cancelled T3chfest 2020 · [🖥️ Slides](https://drive.google.com/file/d/1VENjlH8bQ6dGwwDBDEDCpm-E_nvHmdVO/view?usp=sharing)
+- 📅 🇪🇸 **Eficiencia operativa y reduccion de costes con IOT** — Monolitic IOT Workshop, 2019 · [🖥️ Slides](https://drive.google.com/file/d/1GVwr0AjjNsbew5kPUALypLtdVLV0Jr6W/view?usp=sharing) · [🎬 Video](https://drive.google.com/file/d/1hIHtSKtBm838dfjIMtHiODsYmqeAftLY/view?usp=sharing)
   
 ---
 
@@ -56,19 +58,19 @@ My focus areas:
 
 🎙️ Podcasts, interviews and other collaborations:
 
-<!-- Add your collaborations here. Suggested format:
-- 🎧 🇪🇸🇬🇧 **[Episode Title](link)** — Podcast Name, Year
+<!-- Collaborations format:
+- 🎥🎧📃 🇪🇸🇬🇧 **[Episode Title](link)** — Podcast Name, Year
 -->
 
-- 🎧 🇪🇸 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
-- 🎧 🇪🇸 **[De Software Engineer a Manager](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — LambdaLoopers, 2025
+- 🎥 🇪🇸 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
+- 🎥 🇪🇸 **[De Software Engineer a Manager](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — LambdaLoopers, 2025
 - 🎧 🇪🇸 **[Liderazgo, comunicación y gestión](https://open.spotify.com/episode/4BPMuknnkaL4fPGBnDLssU)** — Rodobo Podcast, 2025
-- 🎧 🇪🇸 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
+- 🎥 🇪🇸 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
 - 🎧 🇪🇸 **[Liderazgo técnico y humano](https://open.spotify.com/episode/3bS2FTL8lCPTaHjljTbCdy?si=8c4ebc6fc5d34d9c)** — Hablando con Teach Leaders Podcast, 2024
 - 🎧 🇬🇧 **Fireside Chat con Getmimo** - Mimo, 2023
-- 🎧 🇪🇸 **[Cómo cuidar del talento técnico CON SENTIDIÑO](https://youtu.be/hrPzZly7RZY?si=ZO46jR23-YOC3d9Q)** - Manfred VideoPodcast, 2023
-- 🎧 🇪🇸 **Despertando del País de las Maravillas** - Mucho FI y poco RE newsletter de Álvaro Alegría, 2022
-- 🎧 🇪🇸 **[¿Cómo me enfrento a una entrevista técnica siendo junior?](https://www.youtube.com/live/3XXncJBkQdM?si=feKs84J8mwP51DOy)** — Teach[t3ch], 2022
+- 🎥 🇪🇸 **[Cómo cuidar del talento técnico CON SENTIDIÑO](https://youtu.be/hrPzZly7RZY?si=ZO46jR23-YOC3d9Q)** - Manfred VideoPodcast, 2023
+- 📃 🇪🇸 **Despertando del País de las Maravillas** - Mucho FI y poco RE newsletter de Álvaro Alegría, 2022
+- 🎥 🇪🇸 **[¿Cómo me enfrento a una entrevista técnica siendo junior?](https://www.youtube.com/live/3XXncJBkQdM?si=feKs84J8mwP51DOy)** — Teach[t3ch], 2022
 
 ---
 
@@ -87,7 +89,7 @@ My focus areas:
 
 🛠️ Some of the things I've built or contributed to:
 
-<!-- Add your projects here. Suggested format:
+<!-- Projects format:
 - 🔗 **[Project Name](link)** — Short description of what it does and why it matters
 -->
 
@@ -140,5 +142,5 @@ My focus areas:
 ---
 
 <div align="center">
-  <i>"Drive out fear, so that everyone may work effectively." — W. Edwards Deming</i>
+  <i>"For each desired change, make the change easy (warning: this may be hard), then make the easy change." — Kent Beck</i>
 </div>
