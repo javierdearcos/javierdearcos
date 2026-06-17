@@ -64,7 +64,7 @@ My focus areas:
 -->
 
 - 🎥 🇪🇸 **[Burnout en tech](https://youtu.be/HzSKaYxS4n0?si=7kgAyCltziEmzIev)** — Manfred VideoPodcast, 2025
-- 🎥 🇪🇸 **[De Software Engineer a Manager](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — LambdaLoopers, 2025
+- 🎥 🇪🇸 **[De Software Engineer a Manager](https://www.youtube.com/live/nS9ucyTmj2A?si=5gJFuvcjpQBnObbS)** — LambdaLoopers, 2025
 - 🎧 🇪🇸 **[Liderazgo, comunicación y gestión](https://open.spotify.com/episode/4BPMuknnkaL4fPGBnDLssU)** — Rodobo Podcast, 2025
 - 🎥 🇪🇸 **[Charlando con Engineering Managers](https://youtu.be/BaS7J5mX2oc?si=yTozB38Q6oA13RQZ)** — Manfred VideoPodcast, 2024
 - 🎧 🇪🇸 **[Liderazgo técnico y humano](https://open.spotify.com/episode/3bS2FTL8lCPTaHjljTbCdy?si=8c4ebc6fc5d34d9c)** — Hablando con Teach Leaders Podcast, 2024
